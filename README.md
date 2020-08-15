@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/I%20am%20a%20Python%20developer-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <a href="http://semiworld.org/" target="_blank">
+        <img src="https://img.shields.io/badge/I%20am%20a%20Python%20developer-14354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    </a>  
     <br>
     <a href="http://semiworld.org/" target="_blank">
         <img src="https://github.com/ozcanyarimdunya/ozcanyarimdunya/blob/master/semiworld.png"/> 
