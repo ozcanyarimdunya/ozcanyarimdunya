@@ -10,5 +10,5 @@
 <br>
 <p align="center">
     <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/></a>
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,java"/></a>
 </p>
