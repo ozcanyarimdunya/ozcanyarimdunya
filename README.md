@@ -4,7 +4,7 @@
     </a>  
     <br>
     <a href="http://semiworld.org/" target="_blank">
-        <img src="https://github.com/ozcanyarimdunya/ozcanyarimdunya/blob/master/semiworld.png"/> 
+        <img src="https://github.com/ozcanyarimdunya/ozcanyarimdunya/blob/master/sw.png"/> 
     </a>  
 </p>
 <br>
