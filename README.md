@@ -10,7 +10,7 @@
 <br>
 <p align="center">
     <a href="http://semiworld.org/" target="_blank">
-        <img height="240em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/>
-        <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,java,css"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,css"/>
     </a>
 </p>
