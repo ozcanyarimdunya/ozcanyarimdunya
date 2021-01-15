@@ -9,6 +9,6 @@
 </p>
 <br>
 <p align="center">
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/></a>
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,java,css"/></a>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,css"/>
 </p>
