@@ -9,6 +9,8 @@
 </p>
 <br>
 <p align="center">
-    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/>
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,java,css"/>
+    <a href="http://semiworld.org/">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=vue"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=vue&hide=tex,java,css"/>
+    </a>
 </p>
