@@ -6,7 +6,7 @@
 <br>
 <p align="center">
     <a href="http://semiworld.org/" target="_blank">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=dark"/>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=dark&hide=tex,css"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ozcanyarimdunya&count_private=true&show_icons=true&theme=dark&bg_color=0d1117"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcanyarimdunya&theme=dark&hide=tex,css&bg_color=0d1117"/>
     </a>
 </p>
